@@ -13,7 +13,7 @@
     .texto{
         font-size: 160px;
 text-align: center;
-background: linear-gradient(45deg,  #3700ff,#ff3700d6,#04ff00d6);
+background: linear-gradient(5deg,  #3700ff,#ff3700d6,#04ff00d6);
 background-size: 400% 105%;
 animation: identifier 1s linear infinite alternate;
 
@@ -22,7 +22,7 @@ animation: identifier 1s linear infinite alternate;
 -webkit-text-fill-color: transparent;
     }
     @keyframes  identifier {
-0%{
+4%{
 background-position-x: 0cap;
 
 }
